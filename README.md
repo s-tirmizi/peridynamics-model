@@ -17,4 +17,7 @@ This repository is a great resource for researchers, students, and coders intere
 
 Below is a visualization from the simulation:
 
-![Crack Growth Simulation](https://github.com/s-tirmizi/peridynamics-model/blob/main/dec_scatter_plot_animation-dpi50.gif)
+<div align="center">
+    <img src="https://github.com/s-tirmizi/peridynamics-model/blob/main/dec_scatter_plot_animation-dpi50.gif" alt="Crack Growth Simulation" width="600">
+    <p><i>Figure: Fracture propragation in a 2D square plate.</i></p>
+</div>
