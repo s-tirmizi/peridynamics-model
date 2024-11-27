@@ -5,6 +5,7 @@ Silling, S. A., & Askari, E. (2005). *A meshfree method based on the peridynamic
 Author: Syed Talha Tirmizi (@s-tirmizi)
 
 This repository contains a Jupyter Notebook implementing Peridynamic Theory, an alternative framework for solid mechanics. Unlike traditional methods that rely on partial differential equations, peridynamics uses integral equations to model interactions between particles over finite distances, capturing fracture and damage as a natural outcome of the governing equations.
+
 Features:
 
 - Peridynamic Formulation: Step-by-step implementation of the peridynamic approach, including constitutive models and interaction functions.
