@@ -13,3 +13,7 @@ Features:
 - Data Visualization: Generate plots and animations to analyze the results and gain deeper insights into material behavior.
 
 This repository is a great resource for researchers, students, and coders interested in computational mechanics, fracture modeling, and peridynamic simulations. Contributions and suggestions are welcome!
+
+Below is a visualization from the simulation:
+
+![Crack Growth Simulation](https://github.com/s-tirmizi/peridynamics-model/blob/main/dec_scatter_plot_animation-dpi50.gif)
