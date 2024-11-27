@@ -7,9 +7,9 @@ Author: Syed Talha Tirmizi (@s-tirmizi)
 This repository contains a Jupyter Notebook implementing Peridynamic Theory, an alternative framework for solid mechanics. Unlike traditional methods that rely on partial differential equations, peridynamics uses integral equations to model interactions between particles over finite distances, capturing fracture and damage as a natural outcome of the governing equations.
 Features:
 
-    Peridynamic Formulation: Step-by-step implementation of the peridynamic approach, including constitutive models and interaction functions.
-    Damage Modeling: Simulate fracture and damage evolution directly from the equations of motion.
-    Parameter Flexibility: Easily modify parameters like particle spacing, interaction horizons, and material properties.
-    Data Visualization: Generate plots and animations to analyze the results and gain deeper insights into material behavior.
+- Peridynamic Formulation: Step-by-step implementation of the peridynamic approach, including constitutive models and interaction functions.
+- Damage Modeling: Simulate fracture and damage evolution directly from the equations of motion.
+- Parameter Flexibility: Easily modify parameters like particle spacing, interaction horizons, and material properties.
+- Data Visualization: Generate plots and animations to analyze the results and gain deeper insights into material behavior.
 
 This repository is a great resource for researchers, students, and coders interested in computational mechanics, fracture modeling, and peridynamic simulations. Contributions and suggestions are welcome!
