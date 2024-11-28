@@ -8,10 +8,10 @@ This repository contains a Jupyter Notebook implementing Peridynamic Theory, an 
 
 Features:
 
-- Peridynamic Formulation: Step-by-step implementation of the peridynamic approach, including constitutive models and interaction functions.
+- Peridynamic Formulation: Step-by-step implementation of the peridynamic approach.
 - Damage Modeling: Simulate fracture and damage evolution directly from the equations of motion.
-- Parameter Flexibility: Easily modify parameters like particle spacing, interaction horizons, and material properties.
-- Data Visualization: Generate plots and animations to analyze the results and gain deeper insights into material behavior.
+- Parameter Flexibility: Easily modify parameters like node spacing, horizons, and material properties.
+- Data Visualization: Generate animations to analyze the results and gain deeper insights.
 
 This repository is a great resource for researchers, students, and coders interested in computational mechanics, fracture modeling, and peridynamic simulations. Contributions and suggestions are welcome!
 
